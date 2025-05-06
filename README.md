@@ -6,3 +6,5 @@ but also the couple of distributions used in the KL divergence section of the re
 The Euclidean file was used to perform flow matching and regularization, producing the example in the 3rd part of the report.
 The imputation file was again used to perform flow matching, imputing missing values for some observations. This produced the example
 found in the last section of part 3 of the report.
+Finally, the KL divergence file was used to calculate KL divergence between the results of flow matching, and the true distribution.
+The file is from an individual's github, it was modified for use in the report.
